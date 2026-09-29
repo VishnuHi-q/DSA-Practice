@@ -1,5 +1,6 @@
 class Solution {
 public:
+// testing github sync
     int singleNumber(vector<int>& nums) {
         sort(nums.begin(), nums.end());        
         int n = nums.size();
